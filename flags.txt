@@ -1,0 +1,1 @@
+First Flag: hackRITual{Y0u_Are_1HE_CH0sEn_ONe} -> base64 encoded (aGFja1JJVHVhbHtZMHVfQXJlXzFIRV9DSDBzRW5fT05lfQ==)
