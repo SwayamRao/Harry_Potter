@@ -1,1 +1,5 @@
 First Flag: hackRITual{Y0u_Are_1HE_CH0sEn_ONe} -> base64 encoded (aGFja1JJVHVhbHtZMHVfQXJlXzFIRV9DSDBzRW5fT05lfQ==)
+
+Secound Question :- Which tool is being mentioned? -> Ans: Wireshark
+Secound Flag: Who sent the message? (Keep it in the format hackRITual{} For eg: hackRITual{Ron}  ) -> Flag: hackRITual{darkl0rd}
+
