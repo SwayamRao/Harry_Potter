@@ -18,7 +18,7 @@ setcookie('challenge_cookie', 'secuRIT', time() + 3600, '/'); // Expires in 1 ho
     </style>
 </head>
 <body>
-    <h1>Welcome to the Harry. I am the new monst.. sorry teacher here </h1>
+    <h1>Welcome to the class. I am the new monst.. sorry teacher here </h1>
     <p>So class what should we bake today ?</p>
     <p>Who said i resemble Dolores Umbridge?? </p>
     <!--Hehe no you might need to take hint cause you wont get everything in inspect everytime ;)--> 
