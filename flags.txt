@@ -1,5 +1,8 @@
-First Flag: hackRITual{Y0u_Are_1HE_CH0sEn_ONe} -> base64 encoded (aGFja1JJVHVhbHtZMHVfQXJlXzFIRV9DSDBzRW5fT05lfQ==)
+First Flag: secuRIT{Y0u_Are_1HE_CH0sEn_ONe} -> base64 encoded (c2VjdVJJVHtZMHVfQXJlXzFIRV9DSDBzRW5fT05lfQ==)
 
 Secound Question :- Which tool is being mentioned? -> Ans: Wireshark
-Secound Flag: Who sent the message? (Keep it in the format hackRITual{} For eg: hackRITual{Ron}  ) -> Flag: hackRITual{darkl0rd}
+Secound Flag: Who sent the message? (Keep it in the format hackRITual{} For eg: hackRITual{Ron}  ) -> Flag: secuRIT{darkl0rd}
+
+Third Question :- Who is the new teacher in hogwarts? -> Ans: cookie_monster
+Third Flag: secuRIT{C00kies_CaN_B3_Dang3rous!} Hint: When we are on right path then we should belive on our gut feelings
 
