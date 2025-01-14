@@ -1,3 +1,17 @@
 So, Made 2 tables users and resources 
 Now I have pre-made the table and the server.js and database.js opens it in Read mode only
 So to get the flag you need to input the resource_id as 3 (I have made it 7 in user's table so that if someone tries to perform IDOR in user_id field it will take a much longer time )
+
+Use command : sqlite3 ctf.db
+
+Now use command : RAGMA table_info(resources);
+To get:
+0|resource_id|INTEGER|0||1
+1|resource_name|TEXT|0||0
+2|owner_id|INTEGER|0||0
+
+Now use command : UPDATE resources
+SET resource_name = 'Harry follow the link -> <link to the sql injection website>'
+WHERE resource_id = 4;
+
+Thats it

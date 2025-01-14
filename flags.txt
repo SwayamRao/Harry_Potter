@@ -5,10 +5,18 @@ Secound Flag: Who sent the message? (Keep it in the format secuRIT{} For eg: sec
 
 Third Question :- Who is the new teacher in hogwarts? -> Ans: cookie_monster
 Third Flag: secuRIT{C00kies_CaN_B3_Dang3rous!}
-Hint: For knowing anyone truely you need to know their background very well right? 
+Hint: For knowing anyone truely, you need to know their background very well right? 
 Hint: Once you are on path IncrementinG is the your way out
 Hint: When we are on right path then we should belive on our gut feelings
 
 Fourth Question :- Whats the vulnerability you are using here (ALL Caps) -> IDOR
 Fourth Flag :- secuRIT{IDOR_S33mS_T0_B3_E4Sy}
-Hint :- 
+Hint :- I think out professor is too lazy to change the creds :( 
+Hint :- sorry my english is bad, but my ID OR number would be integer right?
+Hint :- Can you access any other fan mails? 
+
+Fifth Flag :- Whats the username? -> Ans darklord
+Fifth Flag :- secuRIT{h0rcrux_D3stR0y3d!}
+Hint :- The key to the vault lies within the password... but only for those who know the right spell. But when you dont have the key then what would you do?
+Hint :- Are you scared of injections? Cause I am :(
+Hint :- Try to provide spaces in the payload if you know what you doing ;)

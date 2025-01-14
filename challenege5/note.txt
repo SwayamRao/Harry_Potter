@@ -1,0 +1,6 @@
+use 
+npm init -y
+npm install express sqlite3 body-parser
+
+then host the server using the command 
+node server.js
