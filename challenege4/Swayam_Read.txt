@@ -1,0 +1,3 @@
+So, Made 2 tables users and resources 
+Now I have pre-made the table and the server.js and database.js opens it in Read mode only
+So to get the flag you need to input the resource_id as 3 (I have made it 7 in user's table so that if someone tries to perform IDOR in user_id field it will take a much longer time )
