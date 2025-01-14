@@ -86,10 +86,10 @@ app.post('/login', (req, res) => {
     }
 
     if (user) {
-      if (user.username === 'admin') {
+      if (user.username === 'darklord') {
         res.send(`You have successfully accessed the last Horcrux, and by submitting the flag you will destroy it: secuRIT{h0rcrux_D3stR0y3d!}`);
       }  else {
-        res.send(`Welcome, ${user.username}!`);
+        res.send(`Welcome, Harry! We got some info from snape that "darklord" 's last horcrux is stored with him and you need a way to bypass the login page. This is the only hope now harry, we belive in you.  `);
       }
     } else {
       res.send("Invalid credentials.");
