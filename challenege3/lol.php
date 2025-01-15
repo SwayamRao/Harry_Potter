@@ -35,6 +35,6 @@ else if (isset($_COOKIE['challenge_cookie']) && $_COOKIE['challenge_cookie'] ===
     echo 'Hehe are you even on right path? ';
 }
 else {
-    echo '<p>Harry you got to the track but you are running the other way</p>';
+    echo '';
 }
 ?>
