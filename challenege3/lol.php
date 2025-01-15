@@ -6,6 +6,7 @@ $correct_cookie = "cookie_monster6";
 if (isset($_COOKIE['challenge_cookie']) && $_COOKIE['challenge_cookie'] === $correct_cookie) {
     echo '<p>Congratulations! Here is your flag:</p>';
     echo '<pre>secuRIT{C00kies_CaN_B3_Dang3rous!}</pre>';
+    echo '<pre>My cabin now Harry!! -> https://harry-uhqi.onrender.com/login  </pre>';
 } 
 else if (isset($_COOKIE['challenge_cookie']) && $_COOKIE['challenge_cookie'] === "secuRIT"){
     echo '';
