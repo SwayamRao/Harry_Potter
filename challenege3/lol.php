@@ -5,7 +5,8 @@ $correct_cookie = "cookie_monster6";
 // Check if the cookie is set and has the correct value
 if (isset($_COOKIE['challenge_cookie']) && $_COOKIE['challenge_cookie'] === $correct_cookie) {
     echo '<p>Congratulations! Here is your flag:</p>';
-    echo '<pre>secuRIT{C00kies_CaN_B3_Dang3rous!} Now go here: https://harry-uhqi.onrender.com/login </pre>';
+    echo '<pre>secuRIT{C00kies_CaN_B3_Dang3rous!}</pre>';
+    echo '<pre>My cabin now Harry!! -> https://harry-uhqi.onrender.com/login  </pre>';
 } 
 else if (isset($_COOKIE['challenge_cookie']) && $_COOKIE['challenge_cookie'] === "secuRIT"){
     echo '';
@@ -34,6 +35,6 @@ else if (isset($_COOKIE['challenge_cookie']) && $_COOKIE['challenge_cookie'] ===
     echo 'Hehe are you even on right path? ';
 }
 else {
-    echo '<p>Harry you got to the track but you are running the other way</p>';
+    echo '';
 }
 ?>
