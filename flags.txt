@@ -19,4 +19,4 @@ Fifth Flag :- Whats the username? -> Ans darklord
 Fifth Flag :- secuRIT{h0rcrux_D3stR0y3d!}
 Hint :- The key to the vault lies within the password... but only for those who know the right spell. But when you dont have the key then what would you do?
 Hint :- Are you scared of injections? Cause I am :(
-Hint :- Try to provide spaces in the payload if you know what you are doing ;)
+Hint :- Try to provide spaces in the payload if you know what you doing ;)
